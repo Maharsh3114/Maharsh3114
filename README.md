@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maharsh3114
+- 👋 Hi, I’m Maharsh Rajan
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any fruitful project
