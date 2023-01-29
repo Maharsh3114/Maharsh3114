@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Maharsh Rajan
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning Data Science
+- 👀 Data Science and Machine learning
 - 💞️ I’m looking to collaborate on any fruitful project
 - 📫 Reach me at maharshrajan14@gmail.com 
 
